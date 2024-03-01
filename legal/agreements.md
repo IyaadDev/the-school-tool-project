@@ -34,10 +34,6 @@ This policy outlines the conditions under which refunds are processed for produc
 
 **Important:** Distributors/Contributors may modify purchase pages or in-app purchases. However, the usage of APIs provided by us must be ensured.
 
-## Usage Policy
-
-By using the official apps/APIs, you consent to the regulations stipulated in this document. It defines permissible and prohibited activities, including our rights to suspend or terminate your account based on potentially malicious activities.
-
 ## Privacy Policy
 
 This policy describes how we protect your data and the locations where it is stored.
